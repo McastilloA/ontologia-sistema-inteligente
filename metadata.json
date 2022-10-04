@@ -1,0 +1,99 @@
+"metadata": {
+    "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+    "grafico_ciudad": {
+        "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+        "network_type": "drive"
+    },
+    "fig_node": {
+        "grafico_ciudad": {
+            "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+            "network_type": "drive"
+        },
+        "node_color": "y"
+    },
+    "fig_folium": {
+        "grafico_ciudad": {
+            "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+            "network_type": "drive"
+        },
+        "popup_attribute": "name",
+        "color": "blue",
+        "weight": 3,
+        "opacity": 0.9
+    },
+    "save_graph": {
+        "grafico_ciudad": {
+            "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+            "network_type": "drive"
+        },
+        "filepath": "mosquera.png"
+    },
+    "origen": {
+        "grafico_ciudad": {
+            "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+            "network_type": "drive"
+        },
+        "X": -4.7943378,
+        "Y": 37.8831953
+    },
+    "destino": {
+        "grafico_ciudad": {
+            "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+            "network_type": "drive"
+        },
+        "X": -4.7870238,
+        "Y": 37.8831438
+    },
+    "ruta": {
+        "grafico_ciudad": {
+            "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+            "network_type": "drive"
+        },
+        "origen": {
+            "grafico_ciudad": {
+                "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+                "network_type": "drive"
+            },
+            "X": -4.7943378,
+            "Y": 37.8831953
+        },
+        "destino": {
+            "grafico_ciudad": {
+                "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+                "network_type": "drive"
+            },
+            "X": -4.7870238,
+            "Y": 37.8831438
+        },
+    },
+    "fig_ruta": {
+        "grafico_ciudad": {
+            "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+            "network_type": "drive"
+        },
+        "ruta": {
+            "grafico_ciudad": {
+                "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+                "network_type": "drive"
+            },
+            "origen": {
+                "grafico_ciudad": {
+                    "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+                    "network_type": "drive"
+                },
+                "X": -4.7943378,
+                "Y": 37.8831953
+            },
+            "destino": {
+                "grafico_ciudad": {
+                    "nombre_ciudad": "Ciudad Jardín, Córdoba, Spain",
+                    "network_type": "drive"
+                },
+                "X": -4.7870238,
+                "Y": 37.8831438
+            },
+        },
+        "node_size": 0
+    },
+    "version": "1.0.0"
+},

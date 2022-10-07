@@ -1,23 +1,23 @@
 <?xml version="1.0.0"?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/2022/10/03-rdf-syntax-ns#"
-        xmlns:dc="http://example.org/ruta-inteligente/example#1.0.0">
-    <rdf:Description rdf:about="http://example.org/ruta-inteligente/title">
-        <dc:title>Búsqueda y sistemas basados en reglas</dc:title>
-    </rdf:Description>
+        xmlns:dc="http://example.org/ruta-inteligente#">
+    <rdf:Properties rdf:about="http://example.org/ruta-inteligente/properties/">
+        <dc:title>Búsqueda y sistemas inteligente basado en reglas</dc:title>
+    </rdf:Properties>
 
-    <rdf:Description rdf:about="http://example.org/ruta-inteligente/properties">
-        <dc:properties>properties</dc:properties>
-        <dc:properties>grafico_ciudad</dc:properties>
-        <dc:properties>fig_node</dc:properties>
-        <dc:properties>fig_folium</dc:properties>
-        <dc:properties>save_graph</dc:properties>
-        <dc:properties>origen</dc:properties>
-        <dc:properties>destino</dc:properties>
-        <dc:properties>ruta</dc:properties>
-        <dc:properties>fig_ruta</dc:properties>
-    </rdf:Description>
+    <rdf:Properties rdf:about="http://example.org/ruta-inteligente/properties/">
+        <dc:nombre_ciudad>Ciudad Jardín, Córdoba, Spain</dc:nombre_ciudad>
+        <dc:grafico_ciudad>grafico_ciudad, drive</dc:grafico_ciudad>
+        <dc:fig_node>grafico_ciudad, y</dc:fig_node>
+        <dc:fig_folium>grafico_ciudad, name, blue, 3, 0.9</dc:fig_folium>
+        <dc:save_graph>grafico_ciudad, city_image.png</dc:save_graph>
+        <dc:origen>grafico_ciudad, -4.7943378, 37.8831953</dc:origen>
+        <dc:destino>grafico_ciudad, -4.7870238, 37.8831438</dc:destino>
+        <dc:ruta>grafico_ciudad, origen, destino</dc:ruta>
+        <dc:fig_ruta>grafico_ciudad, ruta, 0</dc:fig_ruta>
+    </rdf:Properties>
 
-    <rdf:Description rdf:about="http://example.org/ruta-inteligente/version">
-        <dc:paragraph>version 1.0.0</dc:paragraph>
-    </rdf:Description>
+    <rdf:Properties rdf:about="http://example.org/ruta-inteligente/properties/">
+        <dc:version>1.0.0</dc:version>
+    </rdf:Properties>
 </rdf:RDF>
